@@ -1,10 +1,10 @@
-import 'package:account/modules/account_page/account/card_button.dart';
-import 'package:account/modules/account_page/account/image_in_stack.dart';
-import 'package:account/modules/account_page/account/info_card.dart';
-import 'package:account/modules/account_page/expanded.dart';
+import 'package:account/widgets/expanded.dart';
 import 'package:account/shared/components/constants.dart';
 import 'package:account/shared/resources/colors.dart';
 import 'package:flutter/material.dart';
+import 'card_button.dart';
+import 'image_in_stack.dart';
+import 'info_card.dart';
 import 'request_button.dart';
 
 class Bodys extends StatefulWidget {

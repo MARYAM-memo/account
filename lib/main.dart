@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'modules/account_page/account/account_appbar.dart';
+import 'modules/account_page/account_appbar.dart';
 import 'shared/components/constants.dart';
 
 void main() {
