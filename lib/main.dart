@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'app/screens/account.dart';
-import 'resources/consts.dart';
+import 'modules/account_page/account/account_appbar.dart';
+import 'shared/components/constants.dart';
 
 void main() {
   runApp(const MyApp());

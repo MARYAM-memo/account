@@ -1,13 +1,9 @@
-import 'package:account/resources/colors.dart';
 import 'package:flutter/material.dart';
+import 'colors.dart';
 
 TextStyle txtStyle(Color color, double size, FontWeight weight) {
   return TextStyle(
-    fontSize: size,
-    fontWeight: weight,
-    color: color,
-    fontFamily: 'KANIT'
-  );
+      fontSize: size, fontWeight: weight, color: color, fontFamily: 'KANIT');
 }
 
 TextStyle getHeader({Color color = white}) {
