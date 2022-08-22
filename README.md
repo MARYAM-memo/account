@@ -1,7 +1,6 @@
 # account
 
-An Account page, this is sample app.
-In this app, I show you some functionality like using PopUpMenuButton, and Animation.
+An Account page is a sample app. In this app, I show you some functionality like using PopUpMenuButton and Animation.
 
 these are some photos...
 👇
