@@ -1,4 +1,7 @@
 # account
+- [initial video in techZaming](https://youtu.be/q07SahZrGNw)
+- [ui in techZaming](https://youtu.be/JY-0ZLzl5vk)
+- [functionaity](https://youtu.be/eYapz4iesXo)
 
 An Account page is a sample app. In this app, I show you some functionality like using PopUpMenuButton and Animation.
 
